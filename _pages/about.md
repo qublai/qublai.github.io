@@ -10,9 +10,29 @@ redirect_from:
 
 About
 ======
-I am currently a lecturer and a researcher in Cyber Security in the School of Business and Computing, [University of Gloucestershire, UK](https://www.glos.ac.uk/). I hold a PhD in Cyber Security and an MSc in Advance Distributed Computing. 
+I am currently a lecturer and a researcher in Cyber Security in the School of Business and Computing, [University of Gloucestershire, UK](https://www.glos.ac.uk/). I hold a PhD in Cyber Security and an MSc in Advance Distributed Computing.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Research Interest
+======
+My research is focused on intelligent and energy efficient enterprise network security. It incorporates; advance malware analysis using deep learning and unsupervised feature extraction methods, malware detection using machine learning algorithms, energy efficiency and scalability using cloud platform, identification of Advance Persistent Threat (APT), honeypot deployment and management.
+
+I have extensive hands-on experience on; [AWS](https://aws.amazon.com/), [Microsoft Azure](https://azure.microsoft.com), [GCP](https://cloud.google.com/). I have developed several cloud-based enterprise applications, including [CloudIntell: An Intelligent Malware Detection Framework](https://www.sciencedirect.com/science/article/pii/S0167739X17314929), specifically designed using AWS. I am working on intelligent enterprise security projects to enhance the level of heterogeneous network security while reducing the CPU and network resource consumption.
+
+
+My current research interests include:
+
+•	Malware detection through dynamic ontologies
+
+•	Advance malware analysis of polymorphic and metamorphic malware
+
+•	Detecting polymorphic malware using deep learning
+
+•	Self-healing enterprise networks against targeted malware attacks
+
+•	Cloud-based distributed and scalable malware detection mechanism
+
+
+
 
 A data-driven personal website
 ======
